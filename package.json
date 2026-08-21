@@ -1,0 +1,7 @@
+{
+  "name": "price-tag",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Photo in, eBay listing out. Resale pricing helper.",
+  "engines": { "node": ">=18" }
+}
